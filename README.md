@@ -18,7 +18,7 @@ This project aims to develop a personalized restaurant recommendation system bas
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/Charu-lakshmi2004/Cognifyz_task2
+   git clone https://github.com/Divya-2004/Cognifyz_task(2)
    ```
 
 2. Navigate to the project directory:
